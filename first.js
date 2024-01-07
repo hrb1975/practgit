@@ -1,8 +1,10 @@
-function test()
+setTimeout(()=>
 {
-    var a=10;
-    var b=10;
-    var c=a*b;
-    return c;
+
+    for (var i=0;i<10;i++)
+    {
+        console.log(i);
+    }
 }
-console.log(test());
+
+,4000)

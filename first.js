@@ -1,10 +1,13 @@
-setTimeout(()=>
+/*
+setTimeout(()=>{
+for (var a=0;a<10;a++)
 {
-
-    for (var i=0;i<10;i++)
-    {
-        console.log(i);
-    }
+    console.log(a);
 }
 
-,4000)
+},5000)
+*/
+for (var a=0;a<10;a++)
+{
+    console.log(a);
+}

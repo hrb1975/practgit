@@ -1,4 +1,4 @@
-var aa = 100;
-var bb = 100;
-var cc = aa * bb;
-console.log(cc);
+var kk = 5;
+var mm = 5;
+var nn = kk + mm;
+console.log(nn);

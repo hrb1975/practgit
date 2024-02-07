@@ -1,4 +1,4 @@
-let aa:number=100;
-let bb:number=100;
-let cc:number=aa*bb;
-console.log(cc);
+let kk:number=5;
+let mm:number=5;
+let nn:number=kk+mm;
+console.log(nn);
